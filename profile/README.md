@@ -19,7 +19,7 @@
 
 Demonstration VideoLink: https://
 
-Special thanks to Dr. Ranga Rodrigo, Prof Rohan Munasinghe, and Prof. J.A.K.S. Jayasinghe for their guidance and support throughout our journey.
+Special thanks to Dr. Ranga Rodrigo, Prof. Rohan Munasinghe, and Prof. J.A.K.S. Jayasinghe for their guidance and support throughout our journey.
 Also we would like to extend our special gratitude to [Department of Electronic and Telecommunication Engineering, University of Moratuwa](https://ent.uom.lk/) for the invaluable support to the project. 
 
 - With Robot LUNA at Sri Lanka Robotics Challenge 2024 (SLRC 24)
