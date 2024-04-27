@@ -5,10 +5,9 @@
 - ROS 1 Noetic Ninjemys, 
 - TensorFlow, 
 - OpenCV, 
-- Open3D, 
-- Python, 
+- Open3D,  
 - C++ with Atmega2560 custom PCB for Motor and Stability Control, 
-- Raspberry Pi 4b ; (3 SBCs),
+- Python with Raspberry Pi 4b ; (3 SBCs),
 - Kinect v2 depth camera and a 150 Degree Wide Angle HD camera.
 
 > Team Members:
