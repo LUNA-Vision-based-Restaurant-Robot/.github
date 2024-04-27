@@ -7,7 +7,7 @@
 - OpenCV, 
 - Open3D,  
 - C++ with Atmega2560 custom PCB for Motor and Stability Control, 
-- Python with Raspberry Pi 4b ; (3 SBCs),
+- Python with Raspberry Pi 4b boards; (3 SBCs),
 - Kinect v2 depth camera and a 150 Degree Wide Angle HD camera.
 
 > Team Members:
