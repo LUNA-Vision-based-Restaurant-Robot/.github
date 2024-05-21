@@ -48,8 +48,14 @@ The main components of the LUNA Restaurant Robot are illustrated in the block di
 
 The LUNA robot's functionalities are controlled by a custom-designed PCB which includes two main units: the Motor Controller Unit and the Stabilization Tray Controller Unit. Below are the front and back views of the PCB:
 
-### PCB Front View
-![PCB Front View](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/PCB_Front.jpg?raw=true)
+<table>
+  <tr>
+    <td><img src="https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/PCB_Front.jpg?raw=true" alt="PCB Front View" width="400"/></td>
+    <td><img src="https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/PCB_Back.jpg?raw=true" alt="PCB Back View" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center">PCB Front View</td>
+    <td align="center">PCB Back View</td>
+  </tr>
+</table>
 
-### PCB Back View
-![PCB Back View](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/PCB_Back.jpg?raw=true)
