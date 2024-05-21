@@ -32,7 +32,7 @@ Also we would like to extend our special gratitude to [Department of Electronic 
 
 The main components of the LUNA Restaurant Robot are illustrated in the block diagram below. This includes the central restaurant computer, local WiFi network, robot's computer unit, motor controller unit, stabilization tray controller unit, cameras, and power unit.
 
-![Main Block Diagram of LUNA Restaurant Robot](path/to/your/diagram_image.jpg)
+![Main Block Diagram of LUNA Restaurant Robot](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/SubUnits_Diagram.jpg?raw=true)
 
 
 ## LUNA Sub System Explanation
@@ -49,7 +49,7 @@ The main components of the LUNA Restaurant Robot are illustrated in the block di
 The LUNA robot's functionalities are controlled by a custom-designed PCB which includes two main units: the Motor Controller Unit and the Stabilization Tray Controller Unit. Below are the front and back views of the PCB:
 
 ### PCB Front View
-![PCB Front View](path/to/your/front_view_image.jpg)
+![PCB Front View](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/PCB_Front.jpg?raw=true)
 
 ### PCB Back View
-![PCB Back View](path/to/your/back_view_image.jpg)
+![PCB Back View](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/blob/main/images/PCB_Back.jpg?raw=true)
