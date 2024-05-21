@@ -19,9 +19,6 @@
 
 Demonstration VideoLink: https://
 
-Special thanks to Dr. Ranga Rodrigo, Prof. Rohan Munasinghe, and Prof. J.A.K.S. Jayasinghe for their guidance and support throughout our journey.
-Also we would like to extend our special gratitude to [Department of Electronic and Telecommunication Engineering, University of Moratuwa](https://ent.uom.lk/) for the invaluable support to the project. 
-
 - With Robot LUNA at Sri Lanka Robotics Challenge 2024 (SLRC 24)
 
 ![LUNA_atSLRC](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/assets/111054736/354b1bcc-fff9-4360-9827-44e59350e603)
@@ -59,3 +56,5 @@ The LUNA robot's functionalities are controlled by a custom-designed PCB which i
   </tr>
 </table>
 
+Special thanks to Dr. Ranga Rodrigo, Prof. Rohan Munasinghe, and Prof. J.A.K.S. Jayasinghe for their guidance and support throughout our journey.
+Also we would like to extend our special gratitude to [Department of Electronic and Telecommunication Engineering, University of Moratuwa](https://ent.uom.lk/) for the invaluable support to the project. 
