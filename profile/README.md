@@ -25,3 +25,31 @@ Also we would like to extend our special gratitude to [Department of Electronic 
 - With Robot LUNA at Sri Lanka Robotics Challenge 2024 (SLRC 24)
 
 ![LUNA_atSLRC](https://github.com/LUNA-Vision-based-Restaurant-Robot/.github/assets/111054736/354b1bcc-fff9-4360-9827-44e59350e603)
+
+
+
+## Robot LUNA System Overview
+
+The main components of the LUNA Restaurant Robot are illustrated in the block diagram below. This includes the central restaurant computer, local WiFi network, robot's computer unit, motor controller unit, stabilization tray controller unit, cameras, and power unit.
+
+![Main Block Diagram of LUNA Restaurant Robot](path/to/your/diagram_image.jpg)
+
+
+## LUNA Sub System Explanation
+
+1. **Central Restaurant Computer**: Manages overall operations and communicates with the robot via the local WiFi network.
+2. **Wide Angle Camera**: Provides a broad view of the robot's surroundings for navigation and obstacle avoidance.
+3. **Kinect v2 Depth Camera**: Captures depth information to help the robot understand its environment in three dimensions.
+4. **Motor Controller Unit**: Controls the movement of the robot's wheels and ensures precise navigation.
+5. **Stabilization Tray Controller Unit**: Maintains the stability of the tray to prevent spillage while the robot is moving.
+6. **Power Unit**: Supplies power to all components of the robot, ensuring uninterrupted operation.
+
+## PCB Details
+
+The LUNA robot's functionalities are controlled by a custom-designed PCB which includes two main units: the Motor Controller Unit and the Stabilization Tray Controller Unit. Below are the front and back views of the PCB:
+
+### PCB Front View
+![PCB Front View](path/to/your/front_view_image.jpg)
+
+### PCB Back View
+![PCB Back View](path/to/your/back_view_image.jpg)
